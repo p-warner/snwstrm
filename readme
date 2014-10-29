@@ -1,1 +1,3 @@
 Snowstorm, based on- https://github.com/scottschiller/Snowstorm
+
+Uses requestAnimationFrame instead of setTimeout.
